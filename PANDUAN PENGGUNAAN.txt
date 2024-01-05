@@ -1,0 +1,38 @@
+*Panduan Penggunaan*
+
+1.buka xampp
+
+2.start xampp
+
+3.masukan database ke xampp
+
+**Nama Database: onlinefoodphp**
+
+4.buka chrome dengan link
+http://localhost/OnlineShoop-PHP/
+untuk pengguna
+
+5.buka chrome dengan link
+http://localhost/OnlineShoop-PHP/admin 
+untuk adminnya
+
+
+berikut cara login di aplikasi web admin dan pelangannya
+
+**Rekomendasi PHP Versi 5.6, 7.4**
+
+
+**Rincian Masuk Admin**
+
+Nama pengguna: admin
+Kata sandi: codeastro
+
+
+**login User**
+
+username : toko
+password : codeastro
+
+
+
+NB : Jika data di perbarui jangan lupa eskpor databasenya dari xampp php adminya dan ganti file databasenya dengan database yang sudah di eskpor
